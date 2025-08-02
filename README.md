@@ -72,6 +72,10 @@ We aim to classify tree species using leaf image data.
   welcome to download h5 file using the following link:
 📥 Download it from Google Drive:  
 [📂 Click here to download model.h5](https://drive.google.com/file/d/1NV2m4_emdZ0qozZQCLvzILuO-mhS6jhW/view?usp=drive_link)
+>
+
+ 
+ [📂 Click here to download dataset](https://drive.google.com/drive/folders/1XRzRzkGFt35GK7p1IHJOTDHx6N47bxGf?usp=drive_link)
 
 Place the downloaded file in your project directory (e.g., `/models/` or root).
 
