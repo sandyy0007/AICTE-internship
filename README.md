@@ -83,20 +83,20 @@ Place the downloaded file in your project directory (e.g., `/models/` or root).
 
 Install required Python libraries:
 
-
+```bash
 pip install tensorflow matplotlib pillow
 
 
 🚀 How to Use
 1. Train CNN from Scratch
-                        python CNN_Tree_Species.py
+           ```bash             python CNN_Tree_Species.py
 
 2. Train Using Transfer Learning (EfficientNetB0)
-                                    python Transfer_Learning.py
+           ```bash                         python Transfer_Learning.py
 
 
 3. Predict Tree Species from an Image
-                                  python predict.py "path/to/your_image.jpg"
+           ```bash                       python predict.py "path/to/your_image.jpg"
 
 
 📝 Ensure the tree_transfer_mobilenetv2.h5 model is in the same folder as predict.py.
