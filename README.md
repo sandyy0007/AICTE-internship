@@ -69,7 +69,7 @@ We aim to classify tree species using leaf image data.
 ## 🔗 Trained Model File
 
 > ⚠️ The model file `model.h5` is over **400 MB** and cannot be uploaded to GitHub directly.
-
+  welcome to download h5 file using the following link:
 📥 Download it from Google Drive:  
 [📂 Click here to download model.h5](https://drive.google.com/file/d/1NV2m4_emdZ0qozZQCLvzILuO-mhS6jhW/view?usp=drive_link)
 
@@ -83,7 +83,7 @@ Place the downloaded file in your project directory (e.g., `/models/` or root).
 
 Install required Python libraries:
 
-```bash
+
 pip install tensorflow matplotlib pillow
 
 
